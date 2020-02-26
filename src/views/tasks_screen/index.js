@@ -1,0 +1,5 @@
+export About_app from './about_app/about_app'
+export Change_password from './change_password/change_password'
+export Feedback from './feedback/feedback'
+export Setting from './setting/setting'
+export Tasks_screen from './tasks_screen'

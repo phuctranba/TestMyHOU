@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "384959501262",
+    "firebase_url": "https://my-hou-e25dd.firebaseio.com",
+    "project_id": "my-hou-e25dd",
+    "storage_bucket": "my-hou-e25dd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:384959501262:android:d454aae0a01e1808",
+        "android_client_info": {
+          "package_name": "vn.edu.hou.my"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "384959501262-r28lu6fdpq7kmgbnkou22mse7umjh4aa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7y4tTIX2q8YJaXz31rZ5QqaLJPVoMB0o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "384959501262-r28lu6fdpq7kmgbnkou22mse7umjh4aa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

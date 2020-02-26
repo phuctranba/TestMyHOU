@@ -1,0 +1,6 @@
+export Study from './study/study'
+export Schedule from './schedule/schedule'
+export Table_infor_user from './table_infor_user/table_infor_user'
+export Card_student from './card_student/card_student'
+export Detail_chart from './study/detail_chart/detail_chart'
+export Page_infor_user from './table_infor_user/page_infor_user/page_infor_user'

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>A0D86558-DF18-4577-8232-61245A589BC6</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>A0D86558-DF18-4577-8232-61245A589BC6.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>MyHOU project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>MyHOU</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building workspace MyHOU with scheme MyHOU and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>590310976.26814699</real>
+			<key>timeStoppedRecording</key>
+			<real>590310977.99526298</real>
+			<key>title</key>
+			<string>Building workspace MyHOU with scheme MyHOU and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>A0D86558-DF18-4577-8232-61245A589BC6</string>
+		</dict>
+		<key>F6DD8602-E6CD-4628-9057-ED576B0CC877</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>F6DD8602-E6CD-4628-9057-ED576B0CC877.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>MyHOU project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>MyHOU</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building workspace MyHOU with scheme MyHOU and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>590313726.363464</real>
+			<key>timeStoppedRecording</key>
+			<real>590313727.862903</real>
+			<key>title</key>
+			<string>Building workspace MyHOU with scheme MyHOU and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>F6DD8602-E6CD-4628-9057-ED576B0CC877</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

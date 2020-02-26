@@ -1,0 +1,6 @@
+- Lưu ý khi cập nhật và sửa đổi các code, thêm thuộc tinh allowFontScaling={false} cho các text hoặc phần tử mang style text để không bị scale theo fontSize chữ cài đặt trong máy, nếu không sẽ sida lắm
+- Xem mấy cái war của flatlist
+- ảnh sử dụng trong app nên tạo link mình có thẻe kiểm soát được
+- Cái toast trên một số máy có bàn phím ảo bên dưới (android) nó có độ cao sida, thấp
+- Nhớ xử lí cái total ở qpi webhou do có mấy cái bài nó sida
+- Xử lí sao cho khi vào một screen, ấn quay lại thì đúng screen trước
